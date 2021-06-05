@@ -1,0 +1,16 @@
+body {
+    background-color: #97b0ce;
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
+
+.main_img {
+    height: auto;
+    width: auto
+}
+.ul {
+  list-style: none;
+}
